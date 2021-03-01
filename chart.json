@@ -1,0 +1,605 @@
+{
+	"date": "2021-03-01",
+	"chart": [
+		{
+			"rank": "1",
+			"name": "Celebrity",
+			"singer": "아이유",
+			"album": "Celebrity"
+		},
+		{
+			"rank": "2",
+			"name": "밤하늘의 별을(2020)",
+			"singer": "경서",
+			"album": "밤하늘의 별을(2020)"
+		},
+		{
+			"rank": "3",
+			"name": "Dynamite",
+			"singer": "방탄소년단",
+			"album": "Dynamite (DayTime Version)"
+		},
+		{
+			"rank": "4",
+			"name": "VVS (Feat. JUSTHIS) (Prod. GroovyRoom)",
+			"singer": "미란이 (Mirani)",
+			"album": "쇼미더머니 9 Episode 1"
+		},
+		{
+			"rank": "5",
+			"name": "잠이 오질 않네요",
+			"singer": "장범준",
+			"album": "잠이 오질 않네요"
+		},
+		{
+			"rank": "6",
+			"name": "Lovesick Girls",
+			"singer": "BLACKPINK",
+			"album": "THE ALBUM"
+		},
+		{
+			"rank": "7",
+			"name": "취기를 빌려 (취향저격 그녀 X 산들)",
+			"singer": "산들",
+			"album": "취기를 빌려 (취향저격 그녀 X 산들)"
+		},
+		{
+			"rank": "8",
+			"name": "밝게 빛나는 별이 되어 비춰줄게",
+			"singer": "송이한",
+			"album": "밝게 빛나는 별이 되어 비춰줄게"
+		},
+		{
+			"rank": "9",
+			"name": "내 손을 잡아",
+			"singer": "아이유",
+			"album": "최고의 사랑 OST Part.4"
+		},
+		{
+			"rank": "10",
+			"name": "이 밤을 빌려 말해요 (바른연애 길잡이 X 10CM)",
+			"singer": "10CM",
+			"album": "이 밤을 빌려 말해요 (바른연애 길잡이 X 10CM)"
+		},
+		{
+			"rank": "11",
+			"name": "에잇(Prod.&Feat. SUGA of BTS)",
+			"singer": "아이유",
+			"album": "에잇"
+		},
+		{
+			"rank": "12",
+			"name": "나랑 같이 걸을래 (바른연애 길잡이 X 적재)",
+			"singer": "적재",
+			"album": "나랑 같이 걸을래 (바른연애 길잡이 X 적재)"
+		},
+		{
+			"rank": "13",
+			"name": "Blueming",
+			"singer": "아이유",
+			"album": "Love poem"
+		},
+		{
+			"rank": "14",
+			"name": "힘든 건 사랑이 아니다",
+			"singer": "임창정",
+			"album": "힘든 건 사랑이 아니다"
+		},
+		{
+			"rank": "15",
+			"name": "오래된 노래",
+			"singer": "스탠딩 에그",
+			"album": "오래된 노래"
+		},
+		{
+			"rank": "16",
+			"name": "흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야",
+			"singer": "장범준",
+			"album": "멜로가 체질 OST Part 3"
+		},
+		{
+			"rank": "17",
+			"name": "그날에 나는 맘이 편했을까",
+			"singer": "이예준",
+			"album": "그날에 나는 맘이 편했을까"
+		},
+		{
+			"rank": "18",
+			"name": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+			"singer": "AKMU (악동뮤지션)",
+			"album": "항해"
+		},
+		{
+			"rank": "19",
+			"name": "고백 (바른연애 길잡이 X 허각)",
+			"singer": "허각",
+			"album": "고백 (바른연애 길잡이 X 허각)"
+		},
+		{
+			"rank": "20",
+			"name": "사실 나는 (Feat.전건호)",
+			"singer": "경서예지",
+			"album": "사실 나는"
+		},
+		{
+			"rank": "21",
+			"name": "Life Goes On",
+			"singer": "방탄소년단",
+			"album": "BE"
+		},
+		{
+			"rank": "22",
+			"name": "I'm Not Cool",
+			"singer": "현아",
+			"album": "I’m Not Cool"
+		},
+		{
+			"rank": "23",
+			"name": "Savage Love (Laxed - Siren Beat) (BTS Remix)",
+			"singer": "Jawsh 685",
+			"album": "Savage Love (Laxed - Siren Beat) [BTS Remix]"
+		},
+		{
+			"rank": "24",
+			"name": "내 마음이 움찔했던 순간 (취향저격 그녀 X 규현)",
+			"singer": "규현 (KYUHYUN)",
+			"album": "내 마음이 움찔했던 순간 (취향저격 그녀 X 규현)"
+		},
+		{
+			"rank": "25",
+			"name": "METEOR",
+			"singer": "창모 (CHANGMO)",
+			"album": "Boyhood"
+		},
+		{
+			"rank": "26",
+			"name": "모든 날, 모든 순간 (Every day, Every Moment)",
+			"singer": "폴킴",
+			"album": "'키스 먼저 할까요?' OST Part.3"
+		},
+		{
+			"rank": "27",
+			"name": "내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))",
+			"singer": "릴보이 (lIlBOI)",
+			"album": "쇼미더머니 9 Episode 3"
+		},
+		{
+			"rank": "28",
+			"name": "어떻게 지내 (Prod. By VAN.C)",
+			"singer": "오반 (OVAN)",
+			"album": "어떻게 지내"
+		},
+		{
+			"rank": "29",
+			"name": "늦은 밤 너의 집 앞 골목길에서",
+			"singer": "노을",
+			"album": "늦은 밤 너의 집 앞 골목길에서"
+		},
+		{
+			"rank": "30",
+			"name": "사랑하는 당신께",
+			"singer": "폴킴",
+			"album": "사랑하는 당신께"
+		},
+		{
+			"rank": "31",
+			"name": "혼술하고 싶은 밤",
+			"singer": "벤",
+			"album": "혼술하고 싶은 밤"
+		},
+		{
+			"rank": "32",
+			"name": "Dolphin",
+			"singer": "오마이걸 (OH MY GIRL)",
+			"album": "NONSTOP"
+		},
+		{
+			"rank": "33",
+			"name": "How You Like That",
+			"singer": "BLACKPINK",
+			"album": "How You Like That"
+		},
+		{
+			"rank": "34",
+			"name": "2002",
+			"singer": "Anne-Marie",
+			"album": "Speak Your Mind (Deluxe)"
+		},
+		{
+			"rank": "35",
+			"name": "아로하",
+			"singer": "조정석",
+			"album": "슬기로운 의사생활 OST Part 3"
+		},
+		{
+			"rank": "36",
+			"name": "마음을 드려요",
+			"singer": "아이유",
+			"album": "사랑의 불시착 OST Part 11"
+		},
+		{
+			"rank": "37",
+			"name": "오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)",
+			"singer": "마크툽 (MAKTUB)",
+			"album": "Red Moon : To You My Light"
+		},
+		{
+			"rank": "38",
+			"name": "When We Disco (Duet with 선미)",
+			"singer": "박진영",
+			"album": "When We Disco"
+		},
+		{
+			"rank": "39",
+			"name": "서면역에서",
+			"singer": "순순희",
+			"album": "서면역에서"
+		},
+		{
+			"rank": "40",
+			"name": "너의 번호를 누르고 (Prod. 영화처럼)",
+			"singer": "#안녕",
+			"album": "너의 번호를 누르고"
+		},
+		{
+			"rank": "41",
+			"name": "작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)",
+			"singer": "방탄소년단",
+			"album": "MAP OF THE SOUL : PERSONA"
+		},
+		{
+			"rank": "42",
+			"name": "꼬리 (TAIL)",
+			"singer": "선미",
+			"album": "꼬리 (TAIL)"
+		},
+		{
+			"rank": "43",
+			"name": "Memories",
+			"singer": "Maroon 5",
+			"album": "Memories"
+		},
+		{
+			"rank": "44",
+			"name": "술 한잔 해요",
+			"singer": "경서 (경서예지)",
+			"album": "술 한잔 해요"
+		},
+		{
+			"rank": "45",
+			"name": "시작",
+			"singer": "가호 (Gaho)",
+			"album": "이태원 클라쓰 OST Part.2"
+		},
+		{
+			"rank": "46",
+			"name": "화(火花)",
+			"singer": "(여자)아이들",
+			"album": "I burn"
+		},
+		{
+			"rank": "47",
+			"name": "봄날",
+			"singer": "방탄소년단",
+			"album": "YOU NEVER WALK ALONE"
+		},
+		{
+			"rank": "48",
+			"name": "우리 왜 헤어져야 해",
+			"singer": "신예영",
+			"album": "우리 왜 헤어져야 해"
+		},
+		{
+			"rank": "49",
+			"name": "살짝 설렜어 (Nonstop)",
+			"singer": "오마이걸 (OH MY GIRL)",
+			"album": "NONSTOP"
+		},
+		{
+			"rank": "50",
+			"name": "거짓말이라도 해서 널 보고싶어",
+			"singer": "백지영",
+			"album": "거짓말이라도 해서 널 보고싶어"
+		},
+		{
+			"rank": "51",
+			"name": "Love poem",
+			"singer": "아이유",
+			"album": "Love poem"
+		},
+		{
+			"rank": "52",
+			"name": "Dance Monkey",
+			"singer": "Tones And I",
+			"album": "The Kids Are Coming"
+		},
+		{
+			"rank": "53",
+			"name": "너를 만나",
+			"singer": "폴킴",
+			"album": "너를 만나"
+		},
+		{
+			"rank": "54",
+			"name": "CREDIT (Feat. 염따, 기리보이, Zion.T)",
+			"singer": "릴보이 (lIlBOI)",
+			"album": "쇼미더머니 9 Final"
+		},
+		{
+			"rank": "55",
+			"name": "Don't Call Me",
+			"singer": "SHINee (샤이니)",
+			"album": "Don't Call Me - The 7th Album"
+		},
+		{
+			"rank": "56",
+			"name": "사랑은 지날수록 더욱 선명하게 남아",
+			"singer": "전상근",
+			"album": "한 걸음 : 흔적"
+		},
+		{
+			"rank": "57",
+			"name": "안녕",
+			"singer": "폴킴",
+			"album": "호텔 델루나 OST Part.10"
+		},
+		{
+			"rank": "58",
+			"name": "FRIENDS (Prod. Slom)",
+			"singer": "릴보이 (lIlBOI)",
+			"album": "FRIENDS"
+		},
+		{
+			"rank": "59",
+			"name": "Downtown Baby",
+			"singer": "블루 (BLOO)",
+			"album": "Downtown Baby"
+		},
+		{
+			"rank": "60",
+			"name": "추억은 만남보다 이별에 남아",
+			"singer": "정동하",
+			"album": "추억은 만남보다 이별에 남아"
+		},
+		{
+			"rank": "61",
+			"name": "우린 어쩌다 헤어진 걸까",
+			"singer": "허각",
+			"album": "Hello"
+		},
+		{
+			"rank": "62",
+			"name": "마리아 (Maria)",
+			"singer": "화사 (Hwa Sa)",
+			"album": "María"
+		},
+		{
+			"rank": "63",
+			"name": "딩가딩가 (Dingga)",
+			"singer": "마마무 (Mamamoo)",
+			"album": "딩가딩가 (Dingga)"
+		},
+		{
+			"rank": "64",
+			"name": "Paris In The Rain",
+			"singer": "Lauv",
+			"album": "I met you when I was 18. (the playlist)"
+		},
+		{
+			"rank": "65",
+			"name": "홀로",
+			"singer": "이하이",
+			"album": "홀로"
+		},
+		{
+			"rank": "66",
+			"name": "12:45 (Stripped)",
+			"singer": "Etham",
+			"album": "12:45 (Stripped)"
+		},
+		{
+			"rank": "67",
+			"name": "이제 나만 믿어요",
+			"singer": "임영웅",
+			"album": "내일은 미스터트롯 우승자 특전곡"
+		},
+		{
+			"rank": "68",
+			"name": "Panorama",
+			"singer": "IZ*ONE (아이즈원)",
+			"album": "One-reeler / Act IV"
+		},
+		{
+			"rank": "69",
+			"name": "롤린 (Rollin')",
+			"singer": "브레이브걸스",
+			"album": "Rollin'"
+		},
+		{
+			"rank": "70",
+			"name": "I CAN’T STOP ME",
+			"singer": "TWICE (트와이스)",
+			"album": "Eyes wide open"
+		},
+		{
+			"rank": "71",
+			"name": "다시 만날까 봐 (Prod.V.O.S)",
+			"singer": "이예준",
+			"album": "다시 만날까 봐 (Prod.V.O.S)"
+		},
+		{
+			"rank": "72",
+			"name": "DON'T TOUCH ME",
+			"singer": "환불원정대",
+			"album": "DON'T TOUCH ME"
+		},
+		{
+			"rank": "73",
+			"name": "처음처럼",
+			"singer": "엠씨더맥스 (M.C the MAX)",
+			"album": "CEREMONIA"
+		},
+		{
+			"rank": "74",
+			"name": "아무노래",
+			"singer": "지코 (ZICO)",
+			"album": "아무노래"
+		},
+		{
+			"rank": "75",
+			"name": "Don't Start Now",
+			"singer": "Dua Lipa",
+			"album": "Future Nostalgia"
+		},
+		{
+			"rank": "76",
+			"name": "사랑 못해, 남들 쉽게 다 하는 거",
+			"singer": "먼데이 키즈 (Monday Kiz)",
+			"album": "사랑 못해, 남들 쉽게 다 하는 거"
+		},
+		{
+			"rank": "77",
+			"name": "Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",
+			"singer": "미란이 (Mirani)",
+			"album": "쇼미더머니 9 Episode 3"
+		},
+		{
+			"rank": "78",
+			"name": "소확행",
+			"singer": "임창정",
+			"album": "힘든 건 사랑이 아니다"
+		},
+		{
+			"rank": "79",
+			"name": "눈누난나 (NUNU NANA)",
+			"singer": "제시 (Jessi)",
+			"album": "NUNA"
+		},
+		{
+			"rank": "80",
+			"name": "한잔이면 지워질까",
+			"singer": "황인욱",
+			"album": "한잔이면 지워질까"
+		},
+		{
+			"rank": "81",
+			"name": "Freak (Prod. Slom)",
+			"singer": "릴보이 (lIlBOI)",
+			"album": "쇼미더머니 9 Episode 1"
+		},
+		{
+			"rank": "82",
+			"name": "뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom)",
+			"singer": "Khundi Panda",
+			"album": "쇼미더머니 9 Episode 3"
+		},
+		{
+			"rank": "83",
+			"name": "사랑하게 될 줄 알았어",
+			"singer": "전미도",
+			"album": "슬기로운 의사생활 OST Part 11"
+		},
+		{
+			"rank": "84",
+			"name": "Maniac",
+			"singer": "Conan Gray",
+			"album": "Maniac"
+		},
+		{
+			"rank": "85",
+			"name": "What Do I Call You",
+			"singer": "태연 (TAEYEON)",
+			"album": "What Do I Call You - The 4th Mini Album"
+		},
+		{
+			"rank": "86",
+			"name": "별을 담은 시 (Ode To The Stars)",
+			"singer": "마크툽 (MAKTUB)",
+			"album": "Red Moon : Ode To The Stars"
+		},
+		{
+			"rank": "87",
+			"name": "Bad Boy",
+			"singer": "청하",
+			"album": "Bad Boy"
+		},
+		{
+			"rank": "88",
+			"name": "ON AIR (Feat. 로꼬, 박재범 & GRAY)",
+			"singer": "릴보이 (lIlBOI)",
+			"album": "쇼미더머니 9 Final"
+		},
+		{
+			"rank": "89",
+			"name": "가을밤에 든 생각",
+			"singer": "잔나비",
+			"album": "잔나비 소곡집 l"
+		},
+		{
+			"rank": "90",
+			"name": "사랑한단 거짓말은 안 할래",
+			"singer": "먼데이 키즈 (Monday Kiz)",
+			"album": "사랑한단 거짓말은 안 할래"
+		},
+		{
+			"rank": "91",
+			"name": "사랑이 공평할 순 없을까 (Feat. 벤)",
+			"singer": "지소울 (GSoul)",
+			"album": "사랑이 공평할 순 없을까"
+		},
+		{
+			"rank": "92",
+			"name": "다시 여기 바닷가",
+			"singer": "싹쓰리 (유두래곤, 린다G, 비룡)",
+			"album": "다시 여기 바닷가"
+		},
+		{
+			"rank": "93",
+			"name": "멜로디",
+			"singer": "ASH ISLAND",
+			"album": "멜로디"
+		},
+		{
+			"rank": "94",
+			"name": "행복해",
+			"singer": "송하예",
+			"album": "Happy"
+		},
+		{
+			"rank": "95",
+			"name": "서른 밤째 (바른연애 길잡이 X 윤하 (YOUNHA))",
+			"singer": "윤하 (YOUNHA)",
+			"album": "서른 밤째 (바른연애 길잡이 X 윤하 (YOUNHA))"
+		},
+		{
+			"rank": "96",
+			"name": "함께 했는데 이별은 나 혼자인 거야",
+			"singer": "소정 (레이디스 코드)",
+			"album": "함께 했는데 이별은 나 혼자인 거야"
+		},
+		{
+			"rank": "97",
+			"name": "뻔한남자",
+			"singer": "이승기",
+			"album": "뻔한남자"
+		},
+		{
+			"rank": "98",
+			"name": "ON",
+			"singer": "방탄소년단",
+			"album": "MAP OF THE SOUL : 7"
+		},
+		{
+			"rank": "99",
+			"name": "잘할게",
+			"singer": "이승기",
+			"album": "The Project"
+		},
+		{
+			"rank": "100",
+			"name": "Black Mamba",
+			"singer": "aespa",
+			"album": "Black Mamba"
+		}
+	]
+}
